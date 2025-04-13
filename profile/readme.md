@@ -13,4 +13,4 @@
 
 | Flag | Avatar | Name | Role |
 |---|---|---|---|
-| ? | <img src="https://github.com/Overblend-app/.github/blob/main/images/placeholder.png" height="75px" alt="Image unavailable"> | **NoOne** | *Outside Collaborator / Project contributor* |
+| ? | <img src="https://github.com/Overblend-app/.github/blob/main/images/default.png" height="75px" alt="Image unavailable"> | **LEBRON JAMES?!** | *Outside Collaborator / Project contributor* |
