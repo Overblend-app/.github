@@ -1,11 +1,5 @@
-# BelgiansDev
+# Overbland-app
 ---
-
-**"Unity Makes Strength"**
-
----
-
-_BelgiansDev_ is primarily a French-speaking organization where we create projects for school, fun, or just because we’re bored as hell.
 
 ## Meet Our Team
 
